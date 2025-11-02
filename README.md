@@ -41,6 +41,7 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 3. Install dependencies
 pip install -r requirements.txt
 
+```
 
 ▶️ Usage
 
@@ -62,4 +63,3 @@ Semantic Match → Retrieves contextually closest results
 
 Result Display → Outputs relevant summaries or abstracts
 
-🧠 Future Enhancements
